@@ -1,0 +1,9 @@
+*.ffs_db
+
+.DS_Store
+.externalNativeBuild
+desktop.ini
+
+.bak/
+.git/
+.idea/
