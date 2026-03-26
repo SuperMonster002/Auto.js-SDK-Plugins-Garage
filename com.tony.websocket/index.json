@@ -7,7 +7,7 @@
     "name": "websocket-plugin",
     "author": "TonyJiangWJ",
     "description": "Auto.js 简易 WebSocket 插件, 基于 Java-WebSocket 1.5.7 实现, 支持客户端和服务端模式",
-    "instruction": "plugins.load -> websocket.createServer|createClient -> server.start|client.connect/send",
+    "instruction": "plugins.load -> websocket.createServer + server.start | websocket.createClient + client.connect/send",
     "forceIgnoreLocalIcon": true,
     "capabilities": {}
   }
