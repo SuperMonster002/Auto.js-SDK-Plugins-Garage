@@ -1,0 +1,14 @@
+{
+  "1": {
+    "versionName": "1.1",
+    "versionDate": "2022-09-04"
+  },
+  "0": {
+    "name": "FFmpegPlugin",
+    "author": "hyb1996",
+    "description": "使用 FFmpeg 处理音视频类型文件或流, 可用于媒体资源提取或转换",
+    "instruction": "plugins.load -> ffmpeg.inProcess.exec(`-i src dst`)",
+    "forceIgnoreLocalIcon": true,
+    "capabilities": {}
+  }
+}
