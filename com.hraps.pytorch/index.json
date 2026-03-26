@@ -1,12 +1,12 @@
 {
   "1": {
     "versionName": "1.0",
-    "versionDate": "2022-10-22"
+    "versionDate": "2021-04-07"
   },
   "0": {
     "name": "Pytorch-AjPlugin",
     "author": "HRan2004",
-    "description": "PyTorch 在移动端的一款开发包, 作为 Auto.js 的可扩展插件可以快捷调用",
+    "description": "移动端 PyTorch 开发包, Auto.js 的 PyTorch 移动端推理插件",
     "instruction": "plugins.load -> pytorch.debugOd() | pytorch.load(\"yolov5s\") + getCocoClasses() | pytorch.load(\"textcnn\") + getTextcnnVocab()",
     "forceIgnoreLocalIcon": true,
     "capabilities": {}
