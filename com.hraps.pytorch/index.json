@@ -9,6 +9,10 @@
     "description": "移动端 PyTorch 开发包, Auto.js 的 PyTorch 移动端推理插件",
     "instruction": "plugins.load -> pytorch.debugOd() | pytorch.load(\"yolov5s\") + getCocoClasses() | pytorch.load(\"textcnn\") + getTextcnnVocab()",
     "forceIgnoreLocalIcon": true,
+    "supportedAbis": [
+      "armeabi-v7a",
+      "x86"
+    ],
     "capabilities": {}
   }
 }

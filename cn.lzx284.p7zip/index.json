@@ -9,6 +9,12 @@
     "description": "7-Zip 通用压缩插件. 基于 p7zip 16.02 制作, 支持多种格式文件的压缩与解压",
     "instruction": "plugins.load -> new P7zip -> p7zip.extract(sevenZPath, destPath, password)",
     "forceIgnoreLocalIcon": true,
+    "supportedAbis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64",
+      "x86"
+    ],
     "capabilities": {}
   }
 }
