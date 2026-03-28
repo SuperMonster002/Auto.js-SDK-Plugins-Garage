@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">Auto.js 简易 WebSocket 插件, 基于 Java-WebSocket 1.5.7 实现, 支持客户端和服务端模式</string>
+</resources>

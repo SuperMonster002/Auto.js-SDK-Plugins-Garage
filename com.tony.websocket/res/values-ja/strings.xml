@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">Auto.js 向け軽量 WebSocket プラグイン. Java-WebSocket 1.5.7 をベースに実装されており, クライアントモードとサーバーモードの両方に対応します</string>
+</resources>

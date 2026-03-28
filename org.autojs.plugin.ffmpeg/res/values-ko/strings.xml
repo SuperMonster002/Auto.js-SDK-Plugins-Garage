@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">FFmpeg 를 사용해 오디오/비디오 파일 또는 스트림을 처리하며, 미디어 리소스 추출이나 변환에 사용할 수 있습니다</string>
+</resources>

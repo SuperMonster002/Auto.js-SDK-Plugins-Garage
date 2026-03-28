@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">Универсальный плагин сжатия 7-Zip. Создан на базе p7zip 16.02, поддерживает сжатие и распаковку файлов различных форматов</string>
+</resources>

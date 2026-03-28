@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">شبكة عصبية OCR مبنية على PyTorch مع DbNet + AngleNet + Rcnn، تُستخدم للتعرف الضوئي على الحروف في Android، كما تعمل كاضافة توسعة لاطار تطوير Auto.js على Android</string>
+</resources>

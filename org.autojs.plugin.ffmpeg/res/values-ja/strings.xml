@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">FFmpeg を使って音声/動画ファイルまたはストリームを処理し, メディアリソースの抽出や変換に利用できます</string>
+</resources>

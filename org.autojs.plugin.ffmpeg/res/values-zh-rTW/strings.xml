@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">使用 FFmpeg 處理音影片型別檔案或流, 可用於媒體資源提取或轉換</string>
+</resources>

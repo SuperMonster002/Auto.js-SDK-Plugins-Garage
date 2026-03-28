@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">モバイル向け PyTorch 開発パッケージ. Auto.js の PyTorch モバイル推論プラグインです</string>
+</resources>

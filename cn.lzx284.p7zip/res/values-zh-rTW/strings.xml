@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">7-Zip 通用壓縮外掛. 基於 p7zip 16.02 製作, 支援多種格式檔案的壓縮與解壓</string>
+</resources>

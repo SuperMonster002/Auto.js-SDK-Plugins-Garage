@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">移動端 PyTorch 開發包, Auto.js 的 PyTorch 移動端推理插件</string>
+</resources>

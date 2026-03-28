@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">7-Zip 汎用圧縮プラグイン. p7zip 16.02 をベースに作成されており, 多形式ファイルの圧縮および展開に対応します</string>
+</resources>

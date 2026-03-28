@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">基于 PyTorch 开发的 DbNet+AngleNet+Rcnn 的 OCR 识别神经网络, 用于安卓端 OCR 识别及作为 Auto.js 安卓开发框架的一款扩展插件</string>
+</resources>

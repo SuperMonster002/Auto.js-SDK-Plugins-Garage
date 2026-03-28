@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">PyTorch ベースの DbNet + AngleNet + Rcnn OCR 認識ニューラルネットワーク. Android 端末での OCR 認識に使用でき, Auto.js Android 開発フレームワークの拡張プラグインとしても利用できます</string>
+</resources>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">Un plugin WebSocket leger pour Auto.js, implemente sur la base de Java-WebSocket 1.5.7, avec prise en charge des modes client et serveur</string>
+</resources>

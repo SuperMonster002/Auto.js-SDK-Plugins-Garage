@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">7-Zip 범용 압축 플러그인. p7zip 16.02 기반으로 제작되었으며, 다양한 형식 파일의 압축 및 해제를 지원합니다</string>
+</resources>

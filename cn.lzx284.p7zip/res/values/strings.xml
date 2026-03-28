@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">7-Zip general-purpose compression plugin. Built on p7zip 16.02, it supports compression and extraction of files in multiple formats</string>
+</resources>

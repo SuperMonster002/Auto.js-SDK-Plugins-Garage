@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">اضافة ضغط عامة 7-Zip. مبنية على p7zip 16.02، وتدعم ضغط وفك ضغط الملفات متعددة الصيغ</string>
+</resources>

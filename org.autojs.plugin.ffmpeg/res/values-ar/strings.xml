@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">تستخدم FFmpeg لمعالجة ملفات او تدفقات الصوت والفيديو، ويمكن استخدامها لاستخراج الموارد الاعلامية او تحويلها</string>
+</resources>

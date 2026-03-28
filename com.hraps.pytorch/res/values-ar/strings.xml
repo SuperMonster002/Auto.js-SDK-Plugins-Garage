@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">حزمة تطوير PyTorch للهواتف المحمولة، وهي اضافة استدلال PyTorch على الاجهزة المحمولة لـ Auto.js</string>
+</resources>

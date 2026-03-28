@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">An OCR neural network based on PyTorch with DbNet + AngleNet + Rcnn, used for Android OCR recognition and as an extension plugin for the Auto.js Android development framework</string>
+</resources>

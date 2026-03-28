@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">Package de developpement PyTorch mobile, un plugin d\'inference mobile PyTorch pour Auto.js</string>
+</resources>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">OCR-нейросеть на базе PyTorch с DbNet + AngleNet + Rcnn, используемая для OCR-распознавания на Android и как плагин-расширение для Android-фреймворка разработки Auto.js</string>
+</resources>

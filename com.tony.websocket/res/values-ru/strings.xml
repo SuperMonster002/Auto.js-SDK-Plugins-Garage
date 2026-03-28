@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">Легковесный WebSocket-плагин для Auto.js, реализованный на базе Java-WebSocket 1.5.7, с поддержкой клиентского и серверного режимов</string>
+</resources>

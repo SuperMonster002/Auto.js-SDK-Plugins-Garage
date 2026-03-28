@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_description">اضافة WebSocket خفيفة لـ Auto.js، مبنية على Java-WebSocket 1.5.7، وتدعم وضعي العميل والخادم</string>
+</resources>
